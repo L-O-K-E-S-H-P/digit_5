@@ -58,8 +58,3 @@ if flag:
     print(num, "is not a prime number")
 else:
     print(num, "is a prime number") 
-# check if flag is True
-if flag:
-    print(num, "is not a prime number")
-else:
-    print(num, "is a prime number") 
